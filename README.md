@@ -8,8 +8,12 @@ README file based on the user's input.
 # Built With
 - Inquirer
 - Javascript, jQuery
-- 
+![screenshot](./img/commandline.png)
+![screenshot](./img/readme.png)
+
 # Github Link
 https://github.com/p-her/readme-generator
 
 
+# Video Link
+https://watch.screencastify.com/v/EZG0iLQd3JpBHcIVq0z4
