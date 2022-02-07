@@ -164,7 +164,7 @@ function init() {
    })
    .then(page => {
         console.log('Generating README... ')
-        writeToFile('README.md', page)
+        writeToFile('./readme/README.md', page)
    })
 }
 
